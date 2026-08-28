@@ -37,3 +37,6 @@ yarn-error.log*
 
 envnenv.txtn*.db
 *.db-journal
+
+node_runtime/
+node_runtime22/
