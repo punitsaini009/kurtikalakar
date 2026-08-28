@@ -1,0 +1,121 @@
+.main {
+  padding: var(--spacing-xl) 0;
+  background-color: var(--color-white);
+  min-height: calc(100vh - 80px);
+}
+
+.productContainer {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--spacing-xl);
+}
+
+@media (min-width: 768px) {
+  .productContainer {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.detailsSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 2.5rem;
+  color: var(--color-black);
+  margin-bottom: var(--spacing-sm);
+}
+
+.productPagePriceLayout {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: var(--spacing-md);
+}
+
+.price {
+  font-size: 1.5rem;
+  color: var(--color-maroon);
+  font-weight: 600;
+}
+
+.originalPrice {
+  font-size: 1.1rem;
+  color: var(--color-gray-600);
+  text-decoration: line-through;
+}
+
+.discountBadge {
+  background: var(--color-maroon);
+  color: var(--color-white);
+  padding: 4px 8px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  border-radius: 4px;
+}
+
+.divider {
+  height: 1px;
+  background-color: var(--color-gray-200);
+  margin: var(--spacing-md) 0;
+}
+
+.description {
+  color: var(--color-gray-800);
+  line-height: 1.8;
+  margin-bottom: var(--spacing-lg);
+  white-space: pre-wrap;
+}
+
+.sizes {
+  margin-bottom: var(--spacing-xl);
+}
+
+.actions {
+  display: flex;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-xl);
+}
+
+.addToCart {
+  flex: 1;
+  background-color: var(--color-black);
+  color: var(--color-white);
+  padding: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: var(--transition-smooth);
+}
+
+.addToCart:hover {
+  background-color: var(--color-maroon);
+}
+
+.wishlist {
+  padding: 1rem 2rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-200);
+  color: var(--color-black);
+  font-weight: 600;
+  text-transform: uppercase;
+  transition: var(--transition-smooth);
+}
+
+.wishlist:hover {
+  border-color: var(--color-maroon);
+  color: var(--color-maroon);
+}
+
+.details h3 {
+  font-size: 1.2rem;
+  margin-bottom: var(--spacing-sm);
+}
+
+.details ul {
+  list-style-position: inside;
+  color: var(--color-gray-800);
+  line-height: 1.8;
+}

@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.label {
+  font-size: 1.1rem;
+  color: var(--color-gray-800);
+}
+
+.sizeGuideBtn {
+  color: var(--color-maroon);
+  text-decoration: underline;
+  font-size: 0.9rem;
+}
+
+.sizesGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+}
+
+.sizeBtn {
+  min-width: 50px;
+  height: 50px;
+  padding: 0 var(--spacing-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--color-gray-200);
+  background-color: var(--color-white);
+  color: var(--color-black);
+  font-weight: 500;
+  transition: var(--transition-smooth);
+}
+
+.sizeBtn:hover {
+  border-color: var(--color-black);
+}
+
+.sizeBtn.active {
+  background-color: var(--color-black);
+  color: var(--color-white);
+  border-color: var(--color-black);
+}

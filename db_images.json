@@ -1,0 +1,503 @@
+{
+  "products": [
+    {
+      "id": "cmspnutcx0000tpiopr9jl5i7",
+      "name": "Light Pink Sleeveless Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_035.jpg\"]"
+    },
+    {
+      "id": "cmspnuvzd0006tpiow7fe01a9",
+      "name": "Dark Maroon Sleeveless Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_041.jpg\"]"
+    },
+    {
+      "id": "cmsku32q80003tpbwsdap8zok",
+      "name": "Black Embroidered Georgette Suit Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_004.jpg\"]"
+    },
+    {
+      "id": "cmspnv6n30010tpio2s7kbxdr",
+      "name": "Dusty Rose Kurti Set with Dupatta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_071.png\"]"
+    },
+    {
+      "id": "cmspnvak9001btpioaqro67pb",
+      "name": "Light Green Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_082.png\"]"
+    },
+    {
+      "id": "cmspnuxpp000ctpiofyd5glb2",
+      "name": "Maroon Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_047.jpg\"]"
+    },
+    {
+      "id": "cmspnuy47000dtpio1d4ifanq",
+      "name": "Yellow Floral Print Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_048.jpg\"]"
+    },
+    {
+      "id": "cmspnuyfm000etpio8dm50m5a",
+      "name": "Purple Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_049.jpg\"]"
+    },
+    {
+      "id": "cmspnuz8s000gtpiopbcc209v",
+      "name": "Light Pink Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_051.jpg\"]"
+    },
+    {
+      "id": "cmspnuzk6000htpiousqxnzj8",
+      "name": "Light Blue Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_052.jpg\"]"
+    },
+    {
+      "id": "cmspnv18v000ltpio1mqk0t2c",
+      "name": "Red Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_056.jpg\"]"
+    },
+    {
+      "id": "cmspnv1l1000mtpiouwok07h3",
+      "name": "Dark Purple Sleeveless Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_057.jpg\"]"
+    },
+    {
+      "id": "cmspnv1xs000ntpio3745segu",
+      "name": "Light Green Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_058.jpg\"]"
+    },
+    {
+      "id": "cmspnuuyr0003tpiopg5nlxji",
+      "name": "Lime Green Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_038.jpg\"]"
+    },
+    {
+      "id": "cmspnv4nv000utpioftlt901w",
+      "name": "Bright Yellow Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_065.png\"]"
+    },
+    {
+      "id": "cmspnuwug0009tpiojyvd1v1z",
+      "name": "Olive Green Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_044.jpg\"]"
+    },
+    {
+      "id": "cmspnv0ht000jtpioiviu309a",
+      "name": "Dusty Rose Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_054.jpg\"]"
+    },
+    {
+      "id": "cmspnv52g000vtpiofnek2yq4",
+      "name": "Light Pink Kurti Set with Dupatta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_066.png\"]"
+    },
+    {
+      "id": "cmspnv6yy0011tpio3niu22tk",
+      "name": "Magenta Kurti Set with Dupatta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_072.png\"]"
+    },
+    {
+      "id": "cmspnv8mi0016tpioxwz2rj3t",
+      "name": "Mint Green Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_077.png\"]"
+    },
+    {
+      "id": "cmsku34gh0008tpbwzi9o0uya",
+      "name": "Wine Red Chikankari Kurta Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_009.jpg\"]"
+    },
+    {
+      "id": "cmspnv3a8000rtpiop8n413xe",
+      "name": "Lavender Kurti Set with Dupatta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_062.png\"]"
+    },
+    {
+      "id": "cmsku36je000dtpbwtpl1woix",
+      "name": "White & Yellow Floral Chikankari Kurta Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_014.jpg\"]"
+    },
+    {
+      "id": "cmspnvaag001atpiogy23gkoh",
+      "name": "Multicolor Floral Co-ord Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_081.png\"]"
+    },
+    {
+      "id": "cmspnvcw3001gtpiomi2lck6q",
+      "name": "Teal Green Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_087.jpg\"]"
+    },
+    {
+      "id": "cmspnvfzm001ltpio7wcjvosg",
+      "name": "Black Kurti with Red Floral Embroidery",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_092.jpg\"]"
+    },
+    {
+      "id": "cmspnvdam001htpio3ukutr4u",
+      "name": "Pink Floral Kurti Set with Organza Dupatta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_088.jpg\"]"
+    },
+    {
+      "id": "cmspnvjor001rtpioz2i0u9u1",
+      "name": "Olive Green Embroidered Co-ord Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_098.jpg\"]"
+    },
+    {
+      "id": "cmspnvj7o001qtpioi9iia9dv",
+      "name": "White Chikankari Kurti and Palazzo Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_097.jpg\"]"
+    },
+    {
+      "id": "cmspnuucw0002tpios3yhkqw5",
+      "name": "Dark Brown Sleeveless Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_037.jpg\"]"
+    },
+    {
+      "id": "cmspnuva70004tpio71gqqd3w",
+      "name": "Royal Blue Sleeveless Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_039.jpg\"]"
+    },
+    {
+      "id": "cmspnuvnl0005tpiopujxfygd",
+      "name": "Mauve Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_040.jpg\"]"
+    },
+    {
+      "id": "cmspnuw9q0007tpio4aorx5n5",
+      "name": "Hot Pink Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_042.jpg\"]"
+    },
+    {
+      "id": "cmspnuwk60008tpioxt3klfwp",
+      "name": "Navy Blue Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_043.jpg\"]"
+    },
+    {
+      "id": "cmspnux4z000atpiocsqv8sdq",
+      "name": "Dusty Pink Folded Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_045.jpg\"]"
+    },
+    {
+      "id": "cmspnuxf1000btpio2597u8w8",
+      "name": "Wine Red Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_046.jpg\"]"
+    },
+    {
+      "id": "cmspnuyw4000ftpiort6vb6m4",
+      "name": "Royal Blue Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_050.jpg\"]"
+    },
+    {
+      "id": "cmspnuzva000itpio38v6bf1n",
+      "name": "Yellow Folded Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_053.jpg\"]"
+    },
+    {
+      "id": "cmspnv0t8000ktpio5wcyg9g4",
+      "name": "White Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_055.jpg\"]"
+    },
+    {
+      "id": "cmspnv290000otpionfyqfoeu",
+      "name": "Lemon Yellow Chikankari Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_059.jpg\"]"
+    },
+    {
+      "id": "cmspnv2mb000ptpiozq1z7wfh",
+      "name": "QR Code Image",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_060.jpg\"]"
+    },
+    {
+      "id": "cmspnv30c000qtpioykfwpssk",
+      "name": "Peach Sheer Dupatta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_061.jpg\"]"
+    },
+    {
+      "id": "cmspnv5fj000wtpiortsy8elb",
+      "name": "Lavender Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_067.png\"]"
+    },
+    {
+      "id": "cmspnv5r9000xtpiok7a9zwbt",
+      "name": "Beige Kurti and Palazzo Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_068.png\"]"
+    },
+    {
+      "id": "cmspnv62d000ytpiozxxfhp6s",
+      "name": "Lilac Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_069.png\"]"
+    },
+    {
+      "id": "cmspnv6ce000ztpioov09pzaa",
+      "name": "Deep Purple Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_070.png\"]"
+    },
+    {
+      "id": "cmspnv79h0012tpiomd2ya9z1",
+      "name": "Yellow Chikankari Kurti Fabric",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_073.png\"]"
+    },
+    {
+      "id": "cmspnv7kv0013tpionqjmlvuw",
+      "name": "Lavender Kurti Set with Dupatta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_074.png\"]"
+    },
+    {
+      "id": "cmspnv7ve0014tpio96gm013v",
+      "name": "White Kurti Set with Dupatta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_075.png\"]"
+    },
+    {
+      "id": "cmspnv8750015tpiozvm1e5qj",
+      "name": "Pink Chikankari Dupatta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_076.png\"]"
+    },
+    {
+      "id": "cmspnv8xv0017tpioxexmwoz2",
+      "name": "White and Purple Floral Unstitched Suit",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_078.png\"]"
+    },
+    {
+      "id": "cmspnutzk0001tpioy3ha689t",
+      "name": "Pink Sleeveless Kurti",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_036.jpg\"]"
+    },
+    {
+      "id": "cmspnv4a1000ttpiox9qy273p",
+      "name": "Beige Sheer Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_064.png\"]"
+    },
+    {
+      "id": "cmspnv9ez0018tpioq21rj6ge",
+      "name": "Brown Ombre Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_079.png\"]"
+    },
+    {
+      "id": "cmspnv9w00019tpio91te3ixz",
+      "name": "White Floral Embroidered Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_080.png\"]"
+    },
+    {
+      "id": "cmspnvaym001ctpiobqq1yaal",
+      "name": "White and Yellow Floral Unstitched Suit",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_083.png\"]"
+    },
+    {
+      "id": "cmspnvbcn001dtpiovajsp0fy",
+      "name": "Olive Green Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_084.png\"]"
+    },
+    {
+      "id": "cmspnvbsa001etpiopgucjenz",
+      "name": "Black Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_085.jpg\"]"
+    },
+    {
+      "id": "cmspnvcko001ftpio91l6re9s",
+      "name": "White Long Anarkali Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_086.jpg\"]"
+    },
+    {
+      "id": "cmspnvdrf001itpiojfttjxlr",
+      "name": "Maroon Suit Set with Sequin Dupatta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_089.jpg\"]"
+    },
+    {
+      "id": "cmspnve8o001jtpiomanae6p3",
+      "name": "Yellow and White Floral Print Suit Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_090.jpg\"]"
+    },
+    {
+      "id": "cmspnveup001ktpio45s84i1y",
+      "name": "Hot Pink Chikankari Suit Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_091.jpg\"]"
+    },
+    {
+      "id": "cmspnvh71001mtpiobnertzsz",
+      "name": "Dark Teal Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_093.jpg\"]"
+    },
+    {
+      "id": "cmspnvhku001ntpiomntz424l",
+      "name": "Cream Suit Set with Yellow Dupatta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_094.jpg\"]"
+    },
+    {
+      "id": "cmspnviec001otpiocrz705k2",
+      "name": "Beige Anarkali Suit Set with Maroon Dupatta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_095.jpg\"]"
+    },
+    {
+      "id": "cmspnviqm001ptpiotek154ei",
+      "name": "Olive Green Chikankari Kurti Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_096.jpg\"]"
+    },
+    {
+      "id": "cmsku34x40009tpbw3o0xx5f1",
+      "name": "Black Heavy Chikankari Suit Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_010.jpg\"]"
+    },
+    {
+      "id": "cmsku35fl000atpbwd3ykaofn",
+      "name": "Powder Blue Chikankari Suit Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_011.jpg\"]"
+    },
+    {
+      "id": "cmsku35qm000btpbw77ku63gu",
+      "name": "Emerald Green Chikankari Suit Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_012.jpg\"]"
+    },
+    {
+      "id": "cmsku366g000ctpbwdgq3tdqg",
+      "name": "Sky Blue Chikankari Kurta Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_013.jpg\"]"
+    },
+    {
+      "id": "cmsku36xs000etpbwd971m197",
+      "name": "Olive Green Chikankari Suit Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_015.jpg\"]"
+    },
+    {
+      "id": "cmsku377n000ftpbwv4x88vk9",
+      "name": "Peach Ombre Chikankari Sharara Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_016.jpg\"]"
+    },
+    {
+      "id": "cmspnv3qq000stpiofdsftpav",
+      "name": "Light Blue Kurti Set with Dupatta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_063.png\"]"
+    },
+    {
+      "id": "cmsku39gp000ltpbw0csdwqfa",
+      "name": "White & Peach Floral Chikankari Kurta Set",
+      "images": "[\"/uploads/product_022.jpg\"]"
+    },
+    {
+      "id": "cmsku39s5000mtpbwo5kfkf5y",
+      "name": "Maroon Heavy Chikankari Sharara Set",
+      "images": "[\"/uploads/product_023.jpg\"]"
+    },
+    {
+      "id": "cmsku3a3j000ntpbwwikkowm1",
+      "name": "White Heavy Chikankari Kurta Set",
+      "images": "[\"/uploads/product_024.jpg\"]"
+    },
+    {
+      "id": "cmsku3adr000otpbwzzqeg8cl",
+      "name": "Lilac Pink Chikankari Kurta Set",
+      "images": "[\"/uploads/product_025.jpg\"]"
+    },
+    {
+      "id": "cmsku3b6y000ptpbwouo4hupj",
+      "name": "Magenta Heavy Chikankari Sharara Set",
+      "images": "[\"/uploads/product_026.jpg\"]"
+    },
+    {
+      "id": "cmsku3bh0000qtpbw0u9lmmpp",
+      "name": "Turquoise Blue Chikankari Kurta Set",
+      "images": "[\"/uploads/product_027.jpg\"]"
+    },
+    {
+      "id": "cmsku336x0004tpbwkxrr76qv",
+      "name": "Magenta Chikankari Sharara Set",
+      "images": "[\"/uploads/product_005.jpg\"]"
+    },
+    {
+      "id": "cmsku33jg0005tpbw9poavb3x",
+      "name": "Orange Chikankari Kurta Set",
+      "images": "[\"/uploads/product_006.jpg\"]"
+    },
+    {
+      "id": "cmsku37nb000gtpbwrev0ax8u",
+      "name": "Yellow Ombre Chikankari Kurta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_017.jpg\"]"
+    },
+    {
+      "id": "cmsku381i000htpbwn0xbtm3o",
+      "name": "Peach Ombre Chikankari Kurta",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_018.jpg\"]"
+    },
+    {
+      "id": "cmsku38fp000itpbwgw8ufkxf",
+      "name": "White & Yellow Floral Chikankari Kurta Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_019.jpg\"]"
+    },
+    {
+      "id": "cmsku38pj000jtpbw1bwg3xab",
+      "name": "White & Orange Floral Chikankari Kurta Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_020.jpg\"]"
+    },
+    {
+      "id": "cmsku38z3000ktpbwcns2xfuy",
+      "name": "Fuchsia Pink Chikankari Suit Set",
+      "images": "[\"https://74mncgr7.us-east.insforge.app/api/storage/buckets/products/objects/product_021.jpg\"]"
+    },
+    {
+      "id": "cmsku31680000tpbw0bnd8l7f",
+      "name": "White Chikankari Kurta Set",
+      "images": "[\"/uploads/product_001.jpg\"]"
+    },
+    {
+      "id": "cmsku32160001tpbwclkkh43n",
+      "name": "Powder Blue Chikankari Kurta Set",
+      "images": "[\"/uploads/product_002.jpg\"]"
+    },
+    {
+      "id": "cmsku32fj0002tpbw82dt03hq",
+      "name": "Black & White Chikankari Kurta Set",
+      "images": "[\"/uploads/product_003.jpg\"]"
+    },
+    {
+      "id": "cmsku33uu0006tpbwgqwb1mrj",
+      "name": "Blush Pink Chikankari Kurta Set",
+      "images": "[\"/uploads/product_007.jpg\"]"
+    },
+    {
+      "id": "cmsku34650007tpbweusehn7f",
+      "name": "Blue Ombre Chikankari Suit Set",
+      "images": "[\"/uploads/product_008.jpg\"]"
+    },
+    {
+      "id": "cmsku3cdt000stpbw1rdd3pts",
+      "name": "Lavender Chikankari Kurta Set",
+      "images": "[\"/uploads/product_029.jpg\"]"
+    },
+    {
+      "id": "cmsku3cv0000ttpbwpfjolc20",
+      "name": "Magenta Chikankari Sharara Set",
+      "images": "[\"/uploads/product_030.jpg\"]"
+    },
+    {
+      "id": "cmsku3d4n000utpbwwftc18up",
+      "name": "Peach Ombre Chikankari Sharara Set",
+      "images": "[\"/uploads/product_031.jpg\"]"
+    },
+    {
+      "id": "cmsku3dn8000vtpbwvmntarvd",
+      "name": "White & Pink Floral Chikankari Kurta Set",
+      "images": "[\"/uploads/product_032.jpg\"]"
+    },
+    {
+      "id": "cmsku3dx5000wtpbwjkz3nif0",
+      "name": "Yellow Chikankari Kurta Set",
+      "images": "[\"/uploads/product_033.jpg\"]"
+    },
+    {
+      "id": "cmsku3ea2000xtpbwtx3yj8zd",
+      "name": "Dusty Blue Chikankari Kurta Set",
+      "images": "[\"/uploads/product_034.jpg\"]"
+    },
+    {
+      "id": "cmsku3bww000rtpbwmej5skqv",
+      "name": "Baby Pink Chikankari Suit Set",
+      "images": "[\"/uploads/product_028.jpg\"]"
+    }
+  ],
+  "settings": [
+    {
+      "id": 1,
+      "logoUrl": null,
+      "qrCodeUrl": "/uploads/1786526648589-585178181.jpeg",
+      "heroBannerUrl": null,
+      "updatedAt": "2026-08-12T09:24:10.992Z"
+    }
+  ]
+}

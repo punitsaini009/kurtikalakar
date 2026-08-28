@@ -1,0 +1,884 @@
+[
+  {
+    "id": "cmsku3bww000rtpbwmej5skqv",
+    "name": "Baby Pink Chikankari Suit Set",
+    "currentPrice": 1650,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Straight Kurta Sets collection.",
+    "newDesc": "This is a Baby Pink Suit Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnviec001otpiocrz705k2",
+    "name": "Beige Anarkali Suit Set with Maroon Dupatta",
+    "currentPrice": 1500,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Maroon and Beige Suit Set."
+  },
+  {
+    "id": "cmspnv5r9000xtpiok7a9zwbt",
+    "name": "Beige Kurti and Palazzo Set",
+    "currentPrice": 2250,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Beige Kurti and Palazzo Set."
+  },
+  {
+    "id": "cmspnv4a1000ttpiox9qy273p",
+    "name": "Beige Sheer Kurti Set",
+    "currentPrice": 2200,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Beige Kurti constructed from Sheer fabric."
+  },
+  {
+    "id": "cmsku32q80003tpbwsdap8zok",
+    "name": "Black Embroidered Georgette Suit Set",
+    "currentPrice": 1600,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our 3-Piece Suit Sets collection.",
+    "newDesc": "This is a Black and Red Suit Set constructed from Georgette fabric. It features Embroidered detailing."
+  },
+  {
+    "id": "cmsku34x40009tpbw3o0xx5f1",
+    "name": "Black Heavy Chikankari Suit Set",
+    "currentPrice": 1650,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Best Sellers collection.",
+    "newDesc": "This is a Black Suit Set. It features Heavy Chikankari detailing."
+  },
+  {
+    "id": "cmspnvbsa001etpiopgucjenz",
+    "name": "Black Kurti Set",
+    "currentPrice": 1450,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Black Kurti."
+  },
+  {
+    "id": "cmspnvfzm001ltpio7wcjvosg",
+    "name": "Black Kurti with Red Floral Embroidery",
+    "currentPrice": 2350,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Black and Red Kurti. It features Floral detailing."
+  },
+  {
+    "id": "cmsku32fj0002tpbw82dt03hq",
+    "name": "Black & White Chikankari Kurta Set",
+    "currentPrice": 1800,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Straight Kurta Sets collection.",
+    "newDesc": "This is a White and Black Kurta Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmsku34650007tpbweusehn7f",
+    "name": "Blue Ombre Chikankari Suit Set",
+    "currentPrice": 1500,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our 3-Piece Suit Sets collection.",
+    "newDesc": "This is a Blue Suit Set. It features Chikankari and Ombre detailing."
+  },
+  {
+    "id": "cmsku33uu0006tpbwgqwb1mrj",
+    "name": "Blush Pink Chikankari Kurta Set",
+    "currentPrice": 1800,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Best Sellers collection.",
+    "newDesc": "This is a Blush Pink Kurta Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnv4nv000utpioftlt901w",
+    "name": "Bright Yellow Chikankari Kurti",
+    "currentPrice": 1750,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Yellow Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnv9ez0018tpioq21rj6ge",
+    "name": "Brown Ombre Kurti Set",
+    "currentPrice": 1250,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Brown Kurti. It features Ombre detailing."
+  },
+  {
+    "id": "cmspnvhku001ntpiomntz424l",
+    "name": "Cream Suit Set with Yellow Dupatta",
+    "currentPrice": 2250,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Yellow and Cream Suit Set."
+  },
+  {
+    "id": "cmspnuucw0002tpios3yhkqw5",
+    "name": "Dark Brown Sleeveless Kurti",
+    "currentPrice": 1400,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Brown Kurti. The design is sleeveless."
+  },
+  {
+    "id": "cmspnuvzd0006tpiow7fe01a9",
+    "name": "Dark Maroon Sleeveless Kurti",
+    "currentPrice": 1600,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Dark Maroon Kurti. The design is sleeveless."
+  },
+  {
+    "id": "cmspnv1l1000mtpiouwok07h3",
+    "name": "Dark Purple Sleeveless Kurti",
+    "currentPrice": 1300,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Purple Kurti. The design is sleeveless."
+  },
+  {
+    "id": "cmspnvh71001mtpiobnertzsz",
+    "name": "Dark Teal Kurti Set",
+    "currentPrice": 1550,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Dark Teal Kurti."
+  },
+  {
+    "id": "cmspnv6ce000ztpioov09pzaa",
+    "name": "Deep Purple Kurti Set",
+    "currentPrice": 2250,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Purple Kurti."
+  },
+  {
+    "id": "cmsku3ea2000xtpbwtx3yj8zd",
+    "name": "Dusty Blue Chikankari Kurta Set",
+    "currentPrice": 1350,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Straight Kurta Sets collection.",
+    "newDesc": "This is a Dusty Blue Kurta Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnux4z000atpiocsqv8sdq",
+    "name": "Dusty Pink Folded Kurti",
+    "currentPrice": 1400,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Dusty Pink Kurti."
+  },
+  {
+    "id": "cmspnv0ht000jtpioiviu309a",
+    "name": "Dusty Rose Chikankari Kurti",
+    "currentPrice": 1900,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Dusty Rose Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnv6n30010tpio2s7kbxdr",
+    "name": "Dusty Rose Kurti Set with Dupatta",
+    "currentPrice": 1250,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Dusty Rose Dupatta. A dupatta is included with this set."
+  },
+  {
+    "id": "cmsku35qm000btpbw77ku63gu",
+    "name": "Emerald Green Chikankari Suit Set",
+    "currentPrice": 1300,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Fabric Unstitched collection.",
+    "newDesc": "This is a Emerald and Green Suit Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmsku38z3000ktpbwcns2xfuy",
+    "name": "Fuchsia Pink Chikankari Suit Set",
+    "currentPrice": 1200,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our 3-Piece Suit Sets collection.",
+    "newDesc": "This is a Fuchsia and Pink Suit Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnuw9q0007tpio4aorx5n5",
+    "name": "Hot Pink Chikankari Kurti",
+    "currentPrice": 1550,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Hot Pink Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnveup001ktpio45s84i1y",
+    "name": "Hot Pink Chikankari Suit Set",
+    "currentPrice": 1400,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Hot Pink Suit Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmsku3cdt000stpbw1rdd3pts",
+    "name": "Lavender Chikankari Kurta Set",
+    "currentPrice": 1350,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Straight Kurta Sets collection.",
+    "newDesc": "This is a Lavender Kurta Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnv5fj000wtpiortsy8elb",
+    "name": "Lavender Kurti Set",
+    "currentPrice": 1250,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Lavender Kurti."
+  },
+  {
+    "id": "cmspnv3a8000rtpiop8n413xe",
+    "name": "Lavender Kurti Set with Dupatta",
+    "currentPrice": 2100,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Lavender Dupatta. A dupatta is included with this set."
+  },
+  {
+    "id": "cmspnv7kv0013tpionqjmlvuw",
+    "name": "Lavender Kurti Set with Dupatta",
+    "currentPrice": 1900,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Lavender Dupatta. A dupatta is included with this set."
+  },
+  {
+    "id": "cmspnv290000otpionfyqfoeu",
+    "name": "Lemon Yellow Chikankari Kurti",
+    "currentPrice": 1250,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Yellow Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnuzk6000htpiousqxnzj8",
+    "name": "Light Blue Chikankari Kurti",
+    "currentPrice": 2450,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Blue Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnv3qq000stpiofdsftpav",
+    "name": "Light Blue Kurti Set with Dupatta",
+    "currentPrice": 1450,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Blue Dupatta. A dupatta is included with this set."
+  },
+  {
+    "id": "cmspnv1xs000ntpio3745segu",
+    "name": "Light Green Chikankari Kurti",
+    "currentPrice": 1550,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Light Green Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnvak9001btpioaqro67pb",
+    "name": "Light Green Kurti Set",
+    "currentPrice": 1600,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Light Green Kurti."
+  },
+  {
+    "id": "cmspnuz8s000gtpiopbcc209v",
+    "name": "Light Pink Chikankari Kurti",
+    "currentPrice": 1200,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Light Pink Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnv52g000vtpiofnek2yq4",
+    "name": "Light Pink Kurti Set with Dupatta",
+    "currentPrice": 1700,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Light Pink Dupatta. A dupatta is included with this set."
+  },
+  {
+    "id": "cmspnutcx0000tpiopr9jl5i7",
+    "name": "Light Pink Sleeveless Kurti Set",
+    "currentPrice": 1200,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Light Pink Kurti. The design is sleeveless."
+  },
+  {
+    "id": "cmspnv62d000ytpiozxxfhp6s",
+    "name": "Lilac Kurti Set",
+    "currentPrice": 1250,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Lilac Kurti."
+  },
+  {
+    "id": "cmsku3adr000otpbwzzqeg8cl",
+    "name": "Lilac Pink Chikankari Kurta Set",
+    "currentPrice": 1350,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Straight Kurta Sets collection.",
+    "newDesc": "This is a Lilac and Pink Kurta Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnuuyr0003tpiopg5nlxji",
+    "name": "Lime Green Chikankari Kurti",
+    "currentPrice": 1450,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Lime Green Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmsku336x0004tpbwkxrr76qv",
+    "name": "Magenta Chikankari Sharara Set",
+    "currentPrice": 1450,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Sharara Sets collection.",
+    "newDesc": "This is a Magenta Sharara Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmsku3cv0000ttpbwpfjolc20",
+    "name": "Magenta Chikankari Sharara Set",
+    "currentPrice": 1800,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Fabric Unstitched collection.",
+    "newDesc": "This is a Magenta Sharara Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmsku3b6y000ptpbwouo4hupj",
+    "name": "Magenta Heavy Chikankari Sharara Set",
+    "currentPrice": 2000,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our 3-Piece Suit Sets collection.",
+    "newDesc": "This is a Magenta Sharara Set. It features Heavy Chikankari detailing."
+  },
+  {
+    "id": "cmspnv6yy0011tpio3niu22tk",
+    "name": "Magenta Kurti Set with Dupatta",
+    "currentPrice": 2500,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Magenta Dupatta. A dupatta is included with this set."
+  },
+  {
+    "id": "cmspnuxpp000ctpiofyd5glb2",
+    "name": "Maroon Chikankari Kurti",
+    "currentPrice": 1200,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Maroon Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmsku39s5000mtpbwo5kfkf5y",
+    "name": "Maroon Heavy Chikankari Sharara Set",
+    "currentPrice": 1500,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Sharara Sets collection.",
+    "newDesc": "This is a Maroon Sharara Set. It features Heavy Chikankari detailing."
+  },
+  {
+    "id": "cmspnvdrf001itpiojfttjxlr",
+    "name": "Maroon Suit Set with Sequin Dupatta",
+    "currentPrice": 1850,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Maroon Suit Set. It features Sequin detailing."
+  },
+  {
+    "id": "cmspnuvnl0005tpiopujxfygd",
+    "name": "Mauve Chikankari Kurti",
+    "currentPrice": 2000,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnv8mi0016tpioxwz2rj3t",
+    "name": "Mint Green Kurti Set",
+    "currentPrice": 1800,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Green and Mint Kurti."
+  },
+  {
+    "id": "cmspnvaag001atpiogy23gkoh",
+    "name": "Multicolor Floral Co-ord Set",
+    "currentPrice": 1400,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Co-ord Set. It features Floral detailing."
+  },
+  {
+    "id": "cmspnuwk60008tpioxt3klfwp",
+    "name": "Navy Blue Chikankari Kurti",
+    "currentPrice": 1400,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Navy Blue Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnuwug0009tpiojyvd1v1z",
+    "name": "Olive Green Chikankari Kurti",
+    "currentPrice": 3000,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Green and Olive Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnviqm001ptpiotek154ei",
+    "name": "Olive Green Chikankari Kurti Set",
+    "currentPrice": 2250,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Green and Olive Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmsku36xs000etpbwd971m197",
+    "name": "Olive Green Chikankari Suit Set",
+    "currentPrice": 1350,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our 3-Piece Suit Sets collection.",
+    "newDesc": "This is a Green and Olive Suit Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnvjor001rtpioz2i0u9u1",
+    "name": "Olive Green Embroidered Co-ord Set",
+    "currentPrice": 1450,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Green and Olive and Red Co-ord Set. It features Embroidered detailing."
+  },
+  {
+    "id": "cmspnvbcn001dtpiovajsp0fy",
+    "name": "Olive Green Kurti Set",
+    "currentPrice": 2400,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Green and Olive Kurti."
+  },
+  {
+    "id": "cmsku33jg0005tpbw9poavb3x",
+    "name": "Orange Chikankari Kurta Set",
+    "currentPrice": 1950,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Best Sellers collection.",
+    "newDesc": "This is a Orange Kurta Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmsku381i000htpbwn0xbtm3o",
+    "name": "Peach Ombre Chikankari Kurta",
+    "currentPrice": 1500,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Fabric Unstitched collection.",
+    "newDesc": "This is a Peach Kurta. It features Chikankari and Ombre detailing."
+  },
+  {
+    "id": "cmsku3d4n000utpbwwftc18up",
+    "name": "Peach Ombre Chikankari Sharara Set",
+    "currentPrice": 1450,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Fabric Unstitched collection.",
+    "newDesc": "This is a Peach Sharara Set. It features Chikankari and Ombre detailing."
+  },
+  {
+    "id": "cmsku377n000ftpbwv4x88vk9",
+    "name": "Peach Ombre Chikankari Sharara Set",
+    "currentPrice": 2000,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Sharara Sets collection.",
+    "newDesc": "This is a Peach Sharara Set. It features Chikankari and Ombre detailing."
+  },
+  {
+    "id": "cmspnv30c000qtpioykfwpssk",
+    "name": "Peach Sheer Dupatta",
+    "currentPrice": 1700,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Peach Dupatta constructed from Sheer fabric."
+  },
+  {
+    "id": "cmspnv8750015tpiozvm1e5qj",
+    "name": "Pink Chikankari Dupatta",
+    "currentPrice": 2100,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Pink Dupatta. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnvdam001htpio3ukutr4u",
+    "name": "Pink Floral Kurti Set with Organza Dupatta",
+    "currentPrice": 2300,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Pink Dupatta constructed from Organza fabric. It features Floral detailing."
+  },
+  {
+    "id": "cmspnutzk0001tpioy3ha689t",
+    "name": "Pink Sleeveless Kurti",
+    "currentPrice": 2700,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Pink Kurti. The design is sleeveless."
+  },
+  {
+    "id": "cmsku32160001tpbwclkkh43n",
+    "name": "Powder Blue Chikankari Kurta Set",
+    "currentPrice": 2000,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Straight Kurta Sets collection.",
+    "newDesc": "This is a Powder Blue Kurta Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmsku35fl000atpbwd3ykaofn",
+    "name": "Powder Blue Chikankari Suit Set",
+    "currentPrice": 2150,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our 3-Piece Suit Sets collection.",
+    "newDesc": "This is a Powder Blue Suit Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnuyfm000etpio8dm50m5a",
+    "name": "Purple Chikankari Kurti",
+    "currentPrice": 1800,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Purple Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnv2mb000ptpiozq1z7wfh",
+    "name": "QR Code Image",
+    "currentPrice": 2350,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Outfit."
+  },
+  {
+    "id": "cmspnv18v000ltpio1mqk0t2c",
+    "name": "Red Chikankari Kurti",
+    "currentPrice": 2250,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Red Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnuyw4000ftpiort6vb6m4",
+    "name": "Royal Blue Chikankari Kurti",
+    "currentPrice": 2150,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Royal Blue Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnuva70004tpio71gqqd3w",
+    "name": "Royal Blue Sleeveless Kurti",
+    "currentPrice": 1200,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Royal Blue Kurti. The design is sleeveless."
+  },
+  {
+    "id": "cmsku366g000ctpbwdgq3tdqg",
+    "name": "Sky Blue Chikankari Kurta Set",
+    "currentPrice": 1400,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Embroidered Kurta Sets collection.",
+    "newDesc": "This is a Sky Blue Kurta Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnvcw3001gtpiomi2lck6q",
+    "name": "Teal Green Kurti Set",
+    "currentPrice": 1200,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Green and Teal Kurti."
+  },
+  {
+    "id": "cmsku3bh0000qtpbw0u9lmmpp",
+    "name": "Turquoise Blue Chikankari Kurta Set",
+    "currentPrice": 1300,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our 3-Piece Suit Sets collection.",
+    "newDesc": "This is a Turquoise and Blue Kurta Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnv8xv0017tpioxexmwoz2",
+    "name": "White and Purple Floral Unstitched Suit",
+    "currentPrice": 1500,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Purple and White Suit. It features Unstitched and Floral detailing."
+  },
+  {
+    "id": "cmspnvaym001ctpiobqq1yaal",
+    "name": "White and Yellow Floral Unstitched Suit",
+    "currentPrice": 1450,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Yellow and White Suit. It features Unstitched and Floral detailing."
+  },
+  {
+    "id": "cmsku31680000tpbw0bnd8l7f",
+    "name": "White Chikankari Kurta Set",
+    "currentPrice": 2200,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Best Sellers collection.",
+    "newDesc": "This is a White Kurta Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnv0t8000ktpio5wcyg9g4",
+    "name": "White Chikankari Kurti",
+    "currentPrice": 1250,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a White Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnvj7o001qtpioi9iia9dv",
+    "name": "White Chikankari Kurti and Palazzo Set",
+    "currentPrice": 1450,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a White Kurti and Palazzo Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnv9w00019tpio91te3ixz",
+    "name": "White Floral Embroidered Kurti Set",
+    "currentPrice": 2200,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a White and Red Kurti. It features Embroidered and Floral detailing."
+  },
+  {
+    "id": "cmsku3a3j000ntpbwwikkowm1",
+    "name": "White Heavy Chikankari Kurta Set",
+    "currentPrice": 1450,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Embroidered Kurta Sets collection.",
+    "newDesc": "This is a White Kurta Set. It features Heavy Chikankari detailing."
+  },
+  {
+    "id": "cmspnv7ve0014tpio96gm013v",
+    "name": "White Kurti Set with Dupatta",
+    "currentPrice": 1300,
+    "originalPrice": 1700,
+    "discountPercent": 29,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a White Dupatta. A dupatta is included with this set."
+  },
+  {
+    "id": "cmspnvcko001ftpio91l6re9s",
+    "name": "White Long Anarkali Set",
+    "currentPrice": 1550,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a White Anarkali."
+  },
+  {
+    "id": "cmsku38pj000jtpbw1bwg3xab",
+    "name": "White & Orange Floral Chikankari Kurta Set",
+    "currentPrice": 1300,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Embroidered Kurta Sets collection.",
+    "newDesc": "This is a Orange and White Kurta Set. It features Chikankari and Floral detailing."
+  },
+  {
+    "id": "cmsku39gp000ltpbw0csdwqfa",
+    "name": "White & Peach Floral Chikankari Kurta Set",
+    "currentPrice": 1750,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Embroidered Kurta Sets collection.",
+    "newDesc": "This is a White and Peach Kurta Set. It features Chikankari and Floral detailing."
+  },
+  {
+    "id": "cmsku3dn8000vtpbwvmntarvd",
+    "name": "White & Pink Floral Chikankari Kurta Set",
+    "currentPrice": 2150,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Best Sellers collection.",
+    "newDesc": "This is a White and Pink Kurta Set. It features Chikankari and Floral detailing."
+  },
+  {
+    "id": "cmsku38fp000itpbwgw8ufkxf",
+    "name": "White & Yellow Floral Chikankari Kurta Set",
+    "currentPrice": 1250,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Straight Kurta Sets collection.",
+    "newDesc": "This is a Yellow and White Kurta Set. It features Chikankari and Floral detailing."
+  },
+  {
+    "id": "cmsku36je000dtpbwtpl1woix",
+    "name": "White & Yellow Floral Chikankari Kurta Set",
+    "currentPrice": 1250,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Straight Kurta Sets collection.",
+    "newDesc": "This is a Yellow and White Kurta Set. It features Chikankari and Floral detailing."
+  },
+  {
+    "id": "cmsku34gh0008tpbwzi9o0uya",
+    "name": "Wine Red Chikankari Kurta Set",
+    "currentPrice": 1750,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our 3-Piece Suit Sets collection.",
+    "newDesc": "This is a Wine and Red Kurta Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnuxf1000btpio2597u8w8",
+    "name": "Wine Red Chikankari Kurti",
+    "currentPrice": 1550,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Wine and Red Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnve8o001jtpiomanae6p3",
+    "name": "Yellow and White Floral Print Suit Set",
+    "currentPrice": 1600,
+    "originalPrice": 2300,
+    "discountPercent": 22,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Yellow and White Suit Set. It features Floral and Print detailing."
+  },
+  {
+    "id": "cmsku3dx5000wtpbwjkz3nif0",
+    "name": "Yellow Chikankari Kurta Set",
+    "currentPrice": 1200,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Straight Kurta Sets collection.",
+    "newDesc": "This is a Yellow Kurta Set. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnv79h0012tpiomd2ya9z1",
+    "name": "Yellow Chikankari Kurti Fabric",
+    "currentPrice": 1550,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Yellow Kurti. It features Chikankari detailing."
+  },
+  {
+    "id": "cmspnuy47000dtpio1d4ifanq",
+    "name": "Yellow Floral Print Kurti Set",
+    "currentPrice": 2200,
+    "originalPrice": 3000,
+    "discountPercent": 17,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Yellow Kurti. It features Floral and Print detailing."
+  },
+  {
+    "id": "cmspnuzva000itpio38v6bf1n",
+    "name": "Yellow Folded Kurti",
+    "currentPrice": 1800,
+    "originalPrice": 2000,
+    "discountPercent": 25,
+    "oldDesc": "Details coming soon.",
+    "newDesc": "This is a Yellow Kurti."
+  },
+  {
+    "id": "cmsku37nb000gtpbwrev0ax8u",
+    "name": "Yellow Ombre Chikankari Kurta",
+    "currentPrice": 1650,
+    "originalPrice": null,
+    "discountPercent": null,
+    "oldDesc": "Experience the finest quality with our Fabric Unstitched collection.",
+    "newDesc": "This is a Yellow Kurta. It features Chikankari and Ombre detailing."
+  }
+]

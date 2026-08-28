@@ -1,0 +1,140 @@
+.main {
+  min-height: calc(100vh - 80px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-gray-100);
+  padding: var(--spacing-xl);
+}
+
+.container {
+  width: 100%;
+  max-width: 450px;
+}
+
+.loginBox {
+  background-color: var(--color-white);
+  padding: var(--spacing-xl);
+  border-radius: 8px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+  text-align: center;
+}
+
+.title {
+  color: var(--color-maroon);
+  font-size: 2rem;
+  margin-bottom: var(--spacing-sm);
+}
+
+.subtitle {
+  color: var(--color-gray-800);
+  margin-bottom: var(--spacing-xl);
+}
+
+.error {
+  background-color: #FEE2E2;
+  color: #991B1B;
+  padding: 0.8rem;
+  border-radius: 4px;
+  margin-bottom: var(--spacing-md);
+  font-size: 0.9rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.input {
+  padding: 1rem;
+  border: 1px solid var(--color-gray-200);
+  border-radius: 4px;
+  font-family: var(--font-primary);
+  font-size: 1rem;
+  width: 100%;
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--color-maroon);
+}
+
+.submitBtn {
+  background-color: var(--color-black);
+  color: var(--color-white);
+  padding: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-radius: 4px;
+  transition: var(--transition-smooth);
+  margin-top: var(--spacing-sm);
+}
+
+.submitBtn:hover {
+  background-color: var(--color-maroon);
+}
+
+.submitBtn:disabled {
+  background-color: var(--color-gray-200);
+  cursor: not-allowed;
+}
+
+.divider {
+  display: flex;
+  align-items: center;
+  margin: var(--spacing-lg) 0;
+  color: var(--color-gray-800);
+}
+
+.divider::before,
+.divider::after {
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid var(--color-gray-200);
+}
+
+.divider span {
+  padding: 0 var(--spacing-md);
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.googleBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-md);
+  width: 100%;
+  padding: 1rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-200);
+  border-radius: 4px;
+  font-weight: 500;
+  transition: var(--transition-smooth);
+}
+
+.googleBtn:hover {
+  background-color: var(--color-gray-100);
+}
+
+.toggleText {
+  margin-top: var(--spacing-md);
+  color: var(--color-gray-800);
+  font-size: 0.9rem;
+}
+
+.toggleBtn {
+  background: none;
+  border: none;
+  color: var(--color-maroon);
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0;
+  font-size: 0.9rem;
+}
+
+.toggleBtn:hover {
+  text-decoration: underline;
+}

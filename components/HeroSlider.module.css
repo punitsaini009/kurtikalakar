@@ -1,0 +1,140 @@
+.hero {
+  position: relative;
+  width: 100vw;
+  aspect-ratio: 1619 / 972;
+  overflow: hidden;
+  background-color: var(--color-black);
+}
+
+.slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  z-index: 1;
+}
+
+.slide.active {
+  opacity: 1;
+  z-index: 2;
+}
+
+.imageWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.image {
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+  height: 100%;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.5));
+}
+
+.content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: var(--color-white);
+  width: 90%;
+  max-width: 800px;
+}
+
+.title {
+  font-size: clamp(1.5rem, 4vw, 3rem);
+  margin-bottom: clamp(0.5rem, 1.5vw, 1rem);
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.8s ease 0.3s;
+}
+
+.subtitle {
+  font-size: clamp(0.9rem, 2vw, 1.2rem);
+  margin-bottom: clamp(1rem, 2.5vw, 1.5rem);
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.8s ease 0.5s;
+}
+
+.slide.active .title,
+.slide.active .subtitle {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.button {
+  display: inline-block;
+  padding: clamp(0.6rem, 1.5vw, 1rem) clamp(1.5rem, 4vw, 3rem);
+  font-size: clamp(0.8rem, 1.5vw, 1rem);
+  background-color: var(--color-white);
+  color: var(--color-black);
+  font-family: var(--font-primary);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: var(--transition-smooth);
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.8s ease 0.7s;
+}
+
+.slide.active .button {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.button:hover {
+  background-color: var(--color-gold);
+  color: var(--color-white);
+}
+
+.indicators {
+  position: absolute;
+  bottom: clamp(10px, 4vw, 40px);
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 12px;
+  z-index: 10;
+}
+
+.indicator {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.5);
+  border: none;
+  cursor: pointer;
+  transition: var(--transition-smooth);
+}
+
+.indicator.activeIndicator {
+  background-color: var(--color-white);
+  transform: scale(1.3);
+}
+
+@media (min-width: 768px) {
+  .title {
+    font-size: clamp(3rem, 5vw, 4.5rem);
+  }
+  .subtitle {
+    font-size: clamp(1.2rem, 2vw, 1.5rem);
+  }
+}

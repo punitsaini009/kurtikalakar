@@ -1,0 +1,339 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  background: var(--color-white);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.03);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  border: 1px solid var(--color-gray-200);
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+.imageLink {
+  display: block;
+}
+
+.imageContainer {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3/4;
+  background-color: var(--color-gray-100);
+  overflow: hidden;
+}
+
+.image {
+  object-fit: contain;
+  transition: transform 0.5s ease;
+}
+
+.card:hover .image {
+  transform: scale(1.05);
+}
+
+
+
+.wishlistBtn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: var(--color-white);
+  color: var(--color-gray-800);
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+  z-index: 2;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: all 0.2s ease;
+}
+
+.wishlistBtn:hover {
+  color: var(--color-maroon);
+  transform: scale(1.1);
+}
+
+.overlayActions {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 10px;
+  background: linear-gradient(transparent, rgba(0,0,0,0.5));
+  transform: translateY(100%);
+  transition: transform 0.3s ease;
+}
+
+.card:hover .overlayActions {
+  transform: translateY(0);
+}
+
+.actionBtn {
+  background: var(--color-white);
+  color: var(--color-black);
+  border: none;
+  padding: 8px;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.actionBtn:hover {
+  background: var(--color-maroon);
+  color: var(--color-white);
+}
+
+.details {
+  padding: var(--spacing-sm);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.colors {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  margin-bottom: 4px;
+}
+
+.colorSwatch {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 1px solid var(--color-gray-300);
+}
+
+.nameLink {
+  text-decoration: none;
+}
+
+.name {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--color-black);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: var(--font-primary);
+}
+
+.productPriceLayout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 2px;
+}
+
+.price {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--color-maroon);
+}
+
+.originalPrice {
+  font-size: 0.85rem;
+  color: var(--color-gray-600);
+  text-decoration: line-through;
+}
+
+.inlineDiscountBadge {
+  background: var(--color-maroon);
+  color: var(--color-white);
+  padding: 2px 6px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  border-radius: 4px;
+  margin-left: 2px;
+}
+
+/* Quick View Modal */
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.6);
+  backdrop-filter: blur(4px);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-md);
+}
+
+.modalContent {
+  background: var(--color-white);
+  border-radius: 8px;
+  width: 100%;
+  max-width: 800px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+  animation: modalFadeIn 0.3s ease-out forwards;
+}
+
+@keyframes modalFadeIn {
+  from { opacity: 0; transform: scale(0.95) translateY(20px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+.closeModal {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--color-gray-800);
+  z-index: 10;
+  transition: color 0.2s;
+}
+
+.closeModal:hover {
+  color: var(--color-maroon);
+}
+
+.modalBody {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 768px) {
+  .modalBody {
+    flex-direction: row;
+  }
+}
+
+.modalImageContainer {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3/4;
+  background: var(--color-gray-100);
+}
+
+@media (min-width: 768px) {
+  .modalImageContainer {
+    flex: 1;
+  }
+}
+
+.modalImage {
+  object-fit: contain;
+}
+
+.modalDetails {
+  padding: var(--spacing-lg);
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+@media (min-width: 768px) {
+  .modalDetails {
+    flex: 1;
+    justify-content: center;
+  }
+}
+
+.modalName {
+  font-family: var(--font-luxury);
+  font-size: 1.5rem;
+  color: var(--color-maroon);
+}
+
+.modalPrice {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-black);
+}
+
+.sizeSection {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+}
+
+.sizeLabel {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-gray-800);
+}
+
+.sizeGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.sizeBtn {
+  background: var(--color-white);
+  border: 1px solid var(--color-gray-300);
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-size: 0.9rem;
+}
+
+.sizeBtn:hover {
+  border-color: var(--color-maroon);
+}
+
+.activeSize {
+  background: var(--color-maroon);
+  color: var(--color-white);
+  border-color: var(--color-maroon);
+}
+
+.errorText {
+  color: red;
+  font-size: 0.8rem;
+}
+
+.modalAddToCart {
+  background: var(--color-black);
+  color: var(--color-white);
+  border: none;
+  padding: 1rem;
+  border-radius: 4px;
+  font-weight: 600;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.3s;
+  margin-top: var(--spacing-sm);
+}
+
+.modalAddToCart:hover {
+  background: var(--color-maroon);
+}
+
+.viewFullBtn {
+  text-align: center;
+  color: var(--color-maroon);
+  font-size: 0.9rem;
+  text-decoration: underline;
+  margin-top: var(--spacing-sm);
+}

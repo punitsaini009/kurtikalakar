@@ -1,0 +1,171 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  max-width: 400px;
+  height: 100vh;
+  background-color: var(--color-white);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  box-shadow: -4px 0 15px rgba(0, 0, 0, 0.1);
+  animation: slideIn 0.3s forwards;
+}
+
+@keyframes slideIn {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--spacing-lg);
+  border-bottom: 1px solid var(--color-gray-200);
+}
+
+.header h2 {
+  font-size: 1.5rem;
+}
+
+.closeBtn {
+  color: var(--color-gray-800);
+  transition: color 0.2s;
+}
+
+.closeBtn:hover {
+  color: var(--color-maroon);
+}
+
+.content {
+  flex: 1;
+  overflow-y: auto;
+  padding: var(--spacing-lg);
+}
+
+.empty {
+  text-align: center;
+  color: var(--color-gray-800);
+  margin-top: var(--spacing-xl);
+}
+
+.itemsList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-lg);
+}
+
+.item {
+  display: flex;
+  gap: var(--spacing-md);
+}
+
+.imageContainer {
+  position: relative;
+  width: 80px;
+  height: 106px;
+  background-color: var(--color-gray-100);
+  flex-shrink: 0;
+}
+
+.image {
+  object-fit: cover;
+}
+
+.details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.details h3 {
+  font-size: 1rem;
+  font-family: var(--font-primary);
+  font-weight: 500;
+}
+
+.size {
+  color: var(--color-gray-800);
+  font-size: 0.9rem;
+}
+
+.quantityControl {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+  border: 1px solid var(--color-gray-200);
+  width: max-content;
+  padding: 0.3rem 0.5rem;
+}
+
+.quantityControl button {
+  color: var(--color-gray-800);
+}
+
+.priceCol {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.price {
+  font-weight: 600;
+}
+
+.removeBtn {
+  font-size: 0.8rem;
+  color: var(--color-gray-800);
+  text-decoration: underline;
+}
+
+.footer {
+  padding: var(--spacing-lg);
+  border-top: 1px solid var(--color-gray-200);
+  background-color: var(--color-gray-100);
+}
+
+.summary {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: var(--spacing-sm);
+}
+
+.taxInfo {
+  font-size: 0.8rem;
+  color: var(--color-gray-800);
+  margin-bottom: var(--spacing-md);
+  text-align: center;
+}
+
+.checkoutBtn {
+  display: block;
+  width: 100%;
+  background-color: var(--color-black);
+  color: var(--color-white);
+  padding: 1rem;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 1px;
+  transition: background-color 0.2s;
+}
+
+.checkoutBtn:hover {
+  background-color: var(--color-maroon);
+}

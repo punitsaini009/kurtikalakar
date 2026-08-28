@@ -1,0 +1,138 @@
+.container {
+  background-color: var(--color-white);
+  border-radius: 12px;
+  padding: var(--spacing-xl);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+  border: 1px solid var(--color-gray-200);
+}
+
+.header {
+  margin-bottom: var(--spacing-lg);
+}
+
+.header h2 {
+  font-size: 1.5rem;
+  color: var(--color-black);
+  margin-bottom: 4px;
+}
+
+.header p {
+  color: var(--color-gray-600);
+}
+
+.tableWrapper {
+  overflow-x: auto;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  padding: 16px;
+  text-align: left;
+  border-bottom: 1px solid var(--color-gray-200);
+}
+
+.table th {
+  color: var(--color-gray-600);
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
+
+.mono {
+  font-family: monospace;
+  color: var(--color-gray-800);
+  font-weight: 600;
+}
+
+.utrBadge {
+  display: inline-block;
+  background-color: var(--color-gray-100);
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-family: monospace;
+  font-size: 0.85rem;
+  margin-bottom: 4px;
+}
+
+.screenshotLink {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--color-gold);
+  font-size: 0.8rem;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.screenshotLink:hover {
+  text-decoration: underline;
+}
+
+.statusBadge {
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.statusBadge.pending {
+  background-color: #fff3e0;
+  color: #e65100;
+}
+
+.statusBadge.paid {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+}
+
+.statusBadge.rejected {
+  background-color: #ffebee;
+  color: #c62828;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+}
+
+.approveBtn, .rejectBtn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.approveBtn {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+}
+
+.approveBtn:hover {
+  background-color: #c8e6c9;
+}
+
+.rejectBtn {
+  background-color: #ffebee;
+  color: #c62828;
+}
+
+.rejectBtn:hover {
+  background-color: #ffcdd2;
+}
+
+.empty {
+  text-align: center;
+  color: var(--color-gray-600);
+  padding: 40px !important;
+}

@@ -1,0 +1,95 @@
+.gallery {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.mainImageContainer {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3/4;
+  background-color: var(--color-gray-100);
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.imageWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.mainImage {
+  object-fit: contain;
+}
+
+.navArrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.7);
+  border: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  color: var(--color-black);
+  cursor: pointer;
+  z-index: 10;
+  transition: all 0.3s ease;
+  opacity: 0;
+}
+
+.mainImageContainer:hover .navArrow {
+  opacity: 1;
+}
+
+.navArrow:hover {
+  background: var(--color-white);
+  color: var(--color-maroon);
+}
+
+.prevArrow {
+  left: 10px;
+}
+
+.nextArrow {
+  right: 10px;
+}
+
+.thumbnailContainer {
+  display: flex;
+  gap: var(--spacing-sm);
+  overflow-x: auto;
+  padding-bottom: var(--spacing-sm);
+  scrollbar-width: none;
+}
+
+.thumbnailContainer::-webkit-scrollbar {
+  display: none;
+}
+
+.thumbnailBtn {
+  position: relative;
+  width: 80px;
+  height: 106px; /* 3:4 aspect ratio */
+  flex-shrink: 0;
+  background-color: var(--color-gray-100);
+  border: 2px solid transparent;
+  transition: border-color 0.2s;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.thumbnailBtn.active {
+  border-color: var(--color-maroon);
+}
+
+.thumbnail {
+  object-fit: contain;
+}

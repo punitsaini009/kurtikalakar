@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+build
+.git
+public/uploads
+.agents
+.env*
+npm-debug.log*
+node_runtime*
